@@ -1,0 +1,7 @@
+# As suggested by github here is my readme file
+This module runs by importing a series of files, all designed the same way, with functions that compute different numerical outputs.
+
+IMPORTANT:
+prerequisites for this module are matplotlib and the standard python math module
+
+There are functions that overalap between different files inside the module, while this is ineffecient, some of the functions have slight differences, and some exist in both files for convenience purposes.
